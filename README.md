@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luna1807
+- 👋 Hi, I’m Mahima
 - 👀 I’m interested in becoming a good programmer
-- 🌱 I’m currently learning c Programming 
+- I am curious about Ai and computer bits
 
 <!---
 luna1807/luna1807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
